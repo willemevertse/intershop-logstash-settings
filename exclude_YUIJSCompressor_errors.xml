@@ -1,0 +1,5 @@
+<included>
+        <logger name="com.intershop.beehive.core.internal.resource.YUIJSErrorReporter">
+                <level value="OFF" />
+        </logger>
+</included>
